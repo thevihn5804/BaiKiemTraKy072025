@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KtraMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9558e43f5189f891cf157187a2bf538ab1e1f473")]
 [assembly: System.Reflection.AssemblyProductAttribute("KtraMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KtraMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
